@@ -1,8 +1,12 @@
-- 👋 Hi, I’m Ruban
+- 👋 Bonjour, I’m Ruban
 - 👀 I’m interested in Electronics and Computer Science
-- 🌱 I’m currently learning <will be updated soon>
-- 💞️ I’m looking to collaborate on 😐
-- 📫 How to reach me Discord but the username is a secret 🤫
+- 🌱 I’m still learning....
+- 💞️ I’m looking to collaborate on Dev Kiyama chan
+- 📫 You can reach me on Discord but the username is a secret 🤫
+- 🍡 Average Sweet Dango Enjoyer
+- ☕ Average Genshin Enjoyer
+- 🥰 Average Eula main
+
 
 <!---
 Ruban6215/Ruban6215 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
