@@ -1,5 +1,5 @@
 👋 Bonjour
-Is something troubling you? If so then you can figure it put for yourself 
+Is something troubling you? If so then you can figure it out for yourself 
 
 
 
