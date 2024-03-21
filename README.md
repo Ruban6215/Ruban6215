@@ -1,11 +1,6 @@
-- 👋 Bonjour, I’m Ruban
-- 👀 I’m interested in Electronics and Computer Science
-- 🌱 I’m still learning....
-- 💞️ I’m looking to collaborate with Dev Kiyama
-- 📫 You can reach me on Discord but the username is a secret 🤫
-- 🍡 Average Sweet Dango Enjoyer
-- ☕ Average Genshin Enjoyer
-- 🥰 Average Eula main
+👋 Bonjour
+Is something troubling you? If so then you can figure it put for yourself 
+
 
 
 <!---
